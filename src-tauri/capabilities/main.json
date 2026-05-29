@@ -1,0 +1,8 @@
+{
+	"$schema": "../gen/schemas/desktop-schema.json",
+	"identifier": "main-capability",
+	"description": "Main window access for the local Docker manager.",
+	"windows": ["main"],
+	"permissions": ["core:default"]
+}
+
